@@ -1,0 +1,9 @@
+{
+  "sync": {
+    "data": {
+      "id": "123",
+      "name": "data sukses"
+    },
+    "message": "Successfully synchronized"
+  }
+}
